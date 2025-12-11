@@ -1,2 +1,6 @@
 archive/
 data/
+*.pt
+inception_resnet_weights
+img_align_celeba/
+runs/
